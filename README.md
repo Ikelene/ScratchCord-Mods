@@ -26,3 +26,7 @@ Attempt to keep your mods in seperate sprites that are not part of vanilla Scrat
 **How do I post a mod here?**
 
 Just clone this repo and then make a pull request with EITHER a `.pms` for sprites that can be manually added (or automaticly by the upcoming ScratchCord modding app) OR upload a full `.pmp` of the project with the mod inside. Be sure to add your own mod name and description of what it does in the `mod_index.md` file.
+
+# MOD INDEX
+Keep the format as written below for the vanilla version example. DO NOT CHANGE THE POSITION OF MODS. ALWAYS KEEP YOUR MOD INDEX AT THE BOTTOM WHEN ADDING IT
+Also ensure your cloned repo is up to date before publishing your mod. Then make sure your mod files are in your own folder that has a name of this format: `USERNAME_MOD NAME`
