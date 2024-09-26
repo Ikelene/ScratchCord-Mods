@@ -16,10 +16,17 @@
 	</p>
 </div>
 
-# ⚠ Ikelene is working on a new server, this mod will stop working along with others. #
 
-Adds light mode.
+# ⚠️ I am working on a major revamp on the way the server works, all old mods for ScratchCord WILL stop working.
 
-# ⚠ Only works on global chat. #
+Attempt to keep your mods in seperate sprites that are not part of vanilla ScratchCord for an easier port to the newer version, otherwise it will be very hard to update your mods.
 
-⬆ real
+## Welcome to the official ScratchCord mods page
+
+**How do I post a mod here?**
+
+Just clone this repo and then make a pull request with EITHER a `.pms` for sprites that can be manually added (or automaticly by the upcoming ScratchCord modding app) OR upload a full `.pmp` of the project with the mod inside. Be sure to add your own mod name and description of what it does in the `mod_index.md` file.
+
+# MOD INDEX
+Keep the format as written below for the vanilla version example. DO NOT CHANGE THE POSITION OF MODS. ALWAYS KEEP YOUR MOD INDEX AT THE BOTTOM WHEN ADDING IT
+Also ensure your cloned repo is up to date before publishing your mod. Then make sure your mod files are in your own folder that has a name of this format: `USERNAME_MOD NAME`
