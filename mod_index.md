@@ -7,10 +7,3 @@ Also ensure your cloned repo is up to date before publishing your mod. Then make
 =====================================================
 ## Light mode add-on.
 ⚠ Yeah so, this only works in global chat. :(
-=====================================================
-## Vanilla ScratchCord (EXAMPLE)
-Adds light mode, pretty self explanatory imo. 
-
-**[ WARNING ]** Currently only works on global channel, sad :(
-
-=====================================================
